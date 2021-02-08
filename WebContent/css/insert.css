@@ -1,0 +1,86 @@
+@charset "UTF-8";
+
+body{
+	background:url(../img/bcg.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+
+
+h2{
+	text-align:center;
+	margin-top:5%;
+}
+.div1{
+	
+	margin-top:2%;
+	margin-left:63%;
+	
+}
+.div2{
+	
+	margin-top:2.5%;
+	
+}
+table{
+	width:"900";
+	height:"900";
+	margin:auto;
+	border:2px solid #800080;
+	padding:20px;
+	
+	
+
+}
+label{
+	font-family:隶书;
+	font-size:22px;
+	}
+.input0{
+	font-family:隶书;
+	font-size:16px;
+	background-color:#E8FFF5;
+	border:2px solid black;
+	font-weight:bold;
+}
+.input1{
+	margin-top:2%;
+	width:500px;
+	height:22px;
+	border:2px solid rgb(128, 0, 128);
+	background-color:transparent;
+	font-weight:bold;
+}
+.input2{
+	margin-top:2%;
+	width:500px;
+	font-weight:bold;
+	background-color:transparent;
+}
+.div3{
+
+	margin-top:4%;
+	margin-left:35%;
+}
+.input3{
+	margin-left:10%;
+	width:70px;
+	font-family:隶书;
+	font-size:18px;
+	background-color:#E8FFF5;
+	border:2px solid black;
+	border-radius:10px;
+	font-weight:bold;
+}
+textarea{
+	cols:60;
+	rows:10;
+	margin-top:2%;
+	width:500px;
+	height:120px;
+	border:2px solid #800080;
+	font-family:宋体;
+	font-weight:bold;/*字体加粗 */
+    color:black;   /*字体颜色*/
+	background-color:transparent;/*文本框透明*/
+}

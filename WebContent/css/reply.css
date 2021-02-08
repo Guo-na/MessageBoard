@@ -1,0 +1,83 @@
+@charset "UTF-8";
+body,h2,div{
+	margin:0px;
+	padding:0px;
+}
+body{
+	background:url(../img/bcg.jpg);
+}
+h2{ margin-top:4%;
+	font-size:22px;
+	text-align:center;
+}
+
+.div0{
+	margin-top:0.2%;
+	margin:auto; 
+	width:650px;
+	height:400px;
+	border:2px solid #800080;
+}
+p{
+	margin-top:4%;
+	text-align:center;
+	font-family:宋体;
+	font-size:20px;
+}
+table{
+	margin-top:2%;
+	margin-left:10%;
+	width:550px;
+	height:250px;
+	
+}
+tr{
+	display:block;  /*将tr设置为块体元素*/
+	border-collapse:separate; 
+	border-spacing:10px 20px;
+}
+.input0{
+	width:400px;
+	height:20px;
+	border:2px solid rgb(128, 0, 128);
+	background-color: transparent;
+}
+textarea{
+	width:400px; 
+	height:150px;
+	background-color:transparent;
+	border:2px solid rgb(128, 0, 128);
+	font-weight:bold;/*加粗 */
+}
+.div1{
+	margin-top:2%;
+	margin-left:40%;
+}
+.input1{
+	
+	background-color: transparent;
+	border:none;
+	font-size:18px;
+	font-family:宋体;
+	font-weight:bold;
+}
+.input2{
+	margin-left:10%;
+	background-color: transparent;
+	border:none;
+	font-size:18px;
+	font-family:宋体;
+	font-weight:bold;
+}
+.div2{
+	margin-top:4%;
+	margin-left:65%;
+	
+}
+.input3{
+	font-family:隶书;
+	font-size:16px;
+	background-color:#E8FFF5;
+	border:2px solid black;
+	font-weight:bold;
+}
